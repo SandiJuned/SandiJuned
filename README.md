@@ -1,1 +1,2 @@
-Hi, I'm Sandi👋. I enjoy programming 💻 and mathematics 📐, as well as robots ; they're all cool and fascinating. I created this GitHub account to store documentation of my learning and experiments. This is because I have a bad habit that often forces me to start over from the beginning, and it's very inefficient.
+# Halo! Selamat datang di profil github ku. 
+
